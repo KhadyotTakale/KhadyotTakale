@@ -71,7 +71,7 @@
 ## 🌐 Connect with me
 
 <p align="left">
-<a href="https://linkedin.com/in/khadyot-takalef" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khadyot-takalef" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/khadyot-takale/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khadyot-takale" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/company/xzentrq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="xzentrq" height="30" width="40" /></a>
 <a href="https://instagram.com/khadyot_takale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="khadyot_takale" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/khadyot_takale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="khadyot_takale" height="30" width="40" /></a>
