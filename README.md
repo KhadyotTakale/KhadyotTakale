@@ -11,7 +11,7 @@
 
 - 🚀 Co-Founder at [Xzentrq](https://www.xzentrq.com/) - Building innovative web solutions
 - 💼 Full Stack Developer Intern at Elegant Enterprises (July 2025 - December 2025)
-- 🎓 B.Tech in Electronics and Telecommunication Engineering at VIT Pune (CGPA: 8.5/10)
+- 🎓 B.Tech in Electronics and Telecommunication Engineering at VIT Pune 
 - 🏆 Adobe Gensolve Hackathon - Top 5 Percentile among 100,000+ participants
 - 🏆 ConsultAdd Hackathon - National Finalist (Top 140 nationwide)
 - 🌱 Currently mastering the MERN Stack and modern web technologies
