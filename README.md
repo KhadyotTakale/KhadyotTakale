@@ -1,28 +1,78 @@
-
 [![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)
 
-
-<h1 align="center">Hi 👋, I'm Khadyot</h1>
-<h3 align="center">An Enthusiastic developer</h3>
+<h1 align="center">Hi 👋, I'm Khadyot Takale</h1>
+<h3 align="center">Full Stack Developer | Co-Founder at Xzentrq | Electronics & Telecommunication Engineering Student</h3>
 
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khadyottakale&label=Profile%20views&color=0e75b6&style=flat" alt="khadyottakale" /> </p>
 
-- 🔭 I’m currently working on [GeoTagPhoto](https://github.com/KhadyotTakale/GeoTagPhotoWebsite)
+## 👨‍💻 About Me
 
-- 🌱 I’m currently learning **MERN**
+- 🚀 Co-Founder at [Xzentrq](https://www.xzentrq.com/) - Building innovative web solutions
+- 💼 Full Stack Developer Intern at Elegant Enterprises (July 2025 - December 2025)
+- 🎓 B.Tech in Electronics and Telecommunication Engineering at VIT Pune (CGPA: 8.5/10)
+- 🏆 Adobe Gensolve Hackathon - Top 5 Percentile among 100,000+ participants
+- 🏆 ConsultAdd Hackathon - National Finalist (Top 140 nationwide)
+- 🌱 Currently mastering the MERN Stack and modern web technologies
+- 💡 Specialized in building multi-tenant platforms, CRM systems, and automation solutions
+- 📫 Reach me at **khadyottakale@gmail.com**
+- ⚡ Fun fact: **I am 1427 rated on blitz chess**
 
-- 💬 Ask me about **React,MongoDB,Express,NodeJs**
+## 🚀 Live Projects
 
-- 📫 How to reach me **khadyottakale@gmail.com**
+### Production Applications
+- **[Tamhan Estimate Management](http://in.tamhan.com/)** - Quotation management system with WhatsApp API integration serving 25-30 active users
+- **[PGS Art Gallery](https://pgsart.xzentrq.com/)** - CRM platform with WhatsApp & Instagram API integration, reducing manual processing by 60%
+- **[Kunal Rew Portfolio](https://kunalrew.xzentrq.com/)** - Professional portfolio with automated lead capture and email workflows
+- **[Khushi Mess Service](https://khushimess.xzentrq.com/)** - Admin platform managing 500-600 customers with automated renewals and payment tracking
 
-- ⚡ Fun fact **I am 1427 rated on blitz chess**
+### Open Source & Development
+- **[GeoTagPhoto](https://github.com/KhadyotTakale/GeoTagPhotoWebsite)** - Geolocation-based photo tagging application
 
-<h3 align="left">Connect with me:</h3>
+## 💼 Professional Experience
+
+**Full Stack Developer Intern** | Elegant Enterprises (July 2025 - Dec 2025)
+- Developed PDF generation service using FastAPI and Playwright with automated callbacks
+- Built multi-tenant platform with domain-based routing and JWT authentication
+- Created estimate management application fixing 10+ security vulnerabilities
+- Implemented real-time preview, CRM features, and email automation systems
+
+## 🛠️ Technical Skills
+
+**Languages:** C++, JavaScript, TypeScript, Python
+
+**Frontend:** React, React Hooks, HTML5, CSS3, TailwindCSS, Bootstrap, Responsive Design
+
+**Backend:** Node.js, Express.js, FastAPI, Xano, RESTful APIs
+
+**Authentication & Security:** Clerk, JWT, OAuth, Role-Based Access Control
+
+**AI & Automation:** Claude (Anthropic), Lovable, Prompt Engineering, Workflow Automation
+
+**DevOps & Cloud:** Git, GitHub, Railway, Render, Vercel, Postman
+
+**Development Practices:** Full-Stack Development, Multi-Tenant Architecture, API Design, Performance Optimization, Agile Development
+
+## 🏆 Competitive Programming
+
+- **LeetCode:** 400+ problems solved | Max Rating: 1538
+- **CodeChef:** Max Rating: 1505
+- **Codeforces:** Max Rating: 1188
+
+## 📊 GitHub Stats
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khadyottakale&show_icons=true&locale=en&layout=compact" alt="khadyottakale" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khadyottakale&show_icons=true&locale=en" alt="khadyottakale" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khadyottakale&" alt="khadyottakale" /></p>
+
+## 🌐 Connect with me
+
 <p align="left">
 <a href="https://linkedin.com/in/khadyot-takalef" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khadyot-takalef" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/company/xzentrq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="xzentrq" height="30" width="40" /></a>
 <a href="https://instagram.com/khadyot_takale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="khadyot_takale" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/khadyot_takale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="khadyot_takale" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/khadyot" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="khadyot" height="30" width="40" /></a>
@@ -31,11 +81,6 @@
 <a href="https://auth.geeksforgeeks.org/user/khadyotk7g3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="khadyotk7g3" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khadyottakale&show_icons=true&locale=en&layout=compact" alt="khadyottakale" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khadyottakale&show_icons=true&locale=en" alt="khadyottakale" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khadyottakale&" alt="khadyottakale" /></p>
+<p align="center">💼 Open to collaborations and exciting opportunities!</p>
