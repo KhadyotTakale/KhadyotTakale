@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Khadyot Takale</h1>
-<h3 align="center">Backend Engineer | Django Contributor | Python, FastAPI, Distributed Systems</h3>
+<h3 align="center">Backend Engineer | Django Contributor | n8n Contributor | Python, FastAPI, Distributed Systems</h3>
 
 <p align="center">
 Building scalable backend systems, async pipelines, and AI infrastructure.
